@@ -2,14 +2,14 @@ import React from "react";
 
 function About() {
 	return (
-		<main class="container">
-			<section class="row">
-				<div class="col-lg-8">
+		<main className="container">
+			<section className="row">
+				<div className="col-lg-8">
 					<h1>About Me</h1>
 				</div>
 			</section>
-			<section class="row">
-				<div class="col-lg-8">
+			<section className="row">
+				<div className="col-lg-8">
 					<img src="./assets/headshot.jpg" alt="Seth Hill" />
 					<p>
 						My name is Seth Hill, aspiring full stack developer from Sterling,
