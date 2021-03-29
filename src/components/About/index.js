@@ -10,7 +10,7 @@ function About() {
 			</section>
 			<section className="row">
 				<div className="col-lg-8">
-					<img src="./assets/headshot.jpg" alt="Seth Hill" />
+					<img src="../../images/compressed.jpg" alt="Seth Hill" />
 					<p>
 						My name is Seth Hill, aspiring full stack developer from Sterling,
 						CO. I've been working in transportation/delivery services for a few
