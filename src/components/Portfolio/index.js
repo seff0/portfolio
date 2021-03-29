@@ -73,13 +73,13 @@ function Portfolio() {
 	];
 
 	return (
-		<main class="container">
-			<section class="row">
-				<div class="col-lg-8">
+		<main className="container">
+			<section className="row">
+				<div className="col-lg-8">
 					<h1>Portfolio</h1>
 				</div>
 			</section>
-			<section class="row">
+			<section className="row">
 				{projects.map((project) => (
 					<Project
 						title={project.title}
