@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.de8e5731.chunk.css",
+    "main.js": "/portfolio/static/js/main.420a172b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.420a172b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.43d9a0ba.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.43d9a0ba.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.450245ad.chunk.js": "/portfolio/static/js/2.450245ad.chunk.js",
+    "static/js/2.450245ad.chunk.js.map": "/portfolio/static/js/2.450245ad.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.de8e5731.chunk.css.map": "/portfolio/static/css/main.de8e5731.chunk.css.map",
+    "static/js/2.450245ad.chunk.js.LICENSE.txt": "/portfolio/static/js/2.450245ad.chunk.js.LICENSE.txt",
+    "static/media/dayPlanner.c4dbafbf.PNG": "/portfolio/static/media/dayPlanner.c4dbafbf.PNG",
+    "static/media/generateReadme.3d02c410.PNG": "/portfolio/static/media/generateReadme.3d02c410.PNG",
+    "static/media/project1screen.6bd5fd64.png": "/portfolio/static/media/project1screen.6bd5fd64.png",
+    "static/media/rosterGenerator.d0b9d72a.PNG": "/portfolio/static/media/rosterGenerator.d0b9d72a.PNG",
+    "static/media/screen2.8b336b68.PNG": "/portfolio/static/media/screen2.8b336b68.PNG",
+    "static/media/weather-dashboard.c3fa609e.png": "/portfolio/static/media/weather-dashboard.c3fa609e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d9a0ba.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.450245ad.chunk.js",
+    "static/css/main.de8e5731.chunk.css",
+    "static/js/main.420a172b.chunk.js"
+  ]
+}
