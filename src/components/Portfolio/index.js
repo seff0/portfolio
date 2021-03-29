@@ -1,9 +1,9 @@
 import React from "react";
 import Project from "../Project";
-import Screen1 from "../../images/project1screen.jpeg";
-import Screen2 from "../../images/screen2";
+import Screen1 from "../../images/project1screen.png";
+import Screen2 from "../../images/screen2.PNG";
 import Screen3 from "../../images/weather-dashboard.png";
-import Screen4 from "../../images/dayplanner.PNG";
+import Screen4 from "../../images/dayPlanner.PNG";
 import Screen5 from "../../images/generateReadme.PNG";
 import Screen6 from "../../images/rosterGenerator.PNG";
 
