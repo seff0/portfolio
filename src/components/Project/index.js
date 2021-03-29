@@ -3,7 +3,7 @@ import React from "react";
 function Project(props) {
 	return (
 		<div className="col-lg-6">
-			<a href={props.href}>
+			<a href={props.deployment}>
 				<img
 					src={props.screen}
 					className="float-start screen"
@@ -17,7 +17,7 @@ function Project(props) {
 				<br />
 				Role: {props.role}
 				<br />
-				Tools: {props.tools}
+				Tools/Tech: {props.tools}
 			</p>
 			<a href={props.href} className="personal-link" target="_blank">
 				View on GitHub
